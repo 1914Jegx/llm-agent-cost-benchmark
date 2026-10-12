@@ -1,0 +1,13 @@
+# Benchmark output (your own runs)
+runs/
+
+# Secrets
+.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ruff_cache/

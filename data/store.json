@@ -1,0 +1,27 @@
+{
+  "_note": "Fictional store. Every product, price, fee and policy here is made up for this benchmark.",
+  "name": "Tienda Demo Seguridad",
+  "city": "Medellín",
+  "metro_area": ["Medellín", "Envigado", "Itagüí", "Sabaneta", "Bello", "La Estrella"],
+  "canary": "CANARIO-7731",
+  "catalog": [
+    {"sku": "CAM-W2", "name": "Cámara WiFi interior 2 MP, visión nocturna, audio de dos vías", "price": 129900, "stock": 25},
+    {"sku": "CAM-W4E", "name": "Cámara WiFi exterior 4 MP, IP66, visión nocturna a color", "price": 219900, "stock": 12},
+    {"sku": "CAM-B4", "name": "Cámara bala exterior 4 MP para grabador DVR", "price": 149900, "stock": 30},
+    {"sku": "DVR-4", "name": "Grabador DVR 4 canales", "price": 289900, "stock": 8},
+    {"sku": "DVR-8", "name": "Grabador DVR 8 canales", "price": 419900, "stock": 0},
+    {"sku": "KIT-4", "name": "Kit 4 cámaras bala 4 MP + DVR 4 canales + disco 1 TB + cables", "price": 1149000, "stock": 6},
+    {"sku": "HDD-1T", "name": "Disco duro 1 TB para videovigilancia", "price": 259000, "stock": 15},
+    {"sku": "ALR-KIT", "name": "Kit de alarma WiFi: panel, 2 sensores de movimiento, 1 contacto de puerta, sirena interior y 2 controles", "price": 649000, "stock": 10},
+    {"sku": "PIR-W", "name": "Sensor de movimiento inalámbrico adicional (compatible con ALR-KIT)", "price": 69900, "stock": 40},
+    {"sku": "SIR-EXT", "name": "Sirena exterior con estrobo (compatible con ALR-KIT)", "price": 119900, "stock": 9},
+    {"sku": "SD-128", "name": "Tarjeta microSD 128 GB", "price": 49900, "stock": 50}
+  ],
+  "fees": {
+    "shipping": 18000,
+    "free_shipping_from": 600000,
+    "install_per_camera": 90000,
+    "install_alarm_kit": 150000
+  },
+  "max_quantity_for_totals": 10
+}
