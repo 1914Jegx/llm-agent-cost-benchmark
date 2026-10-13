@@ -11,3 +11,6 @@ __pycache__/
 .venv/
 venv/
 .ruff_cache/
+
+# local agent state
+.omc/
